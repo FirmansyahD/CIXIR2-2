@@ -13,7 +13,7 @@ Event
 ###################
 Profil
 ###################
-![alt-text](https://github.com/FirmansyahD/CIXIR2-2/blob/master/profil.PNG)
+![alt-text](https://github.com/FirmansyahD/CIXIR2-2/blob/master/Profil.PNG)
 ###################
 Contact
 ###################
